@@ -36,6 +36,7 @@ Find out more about the API’s Endpoints, supported Query Params & Examples fro
 
 ## 📩 SUBMISSION
 
+> ***There is no restriction about the tools you about to use but kindly remind that we're only accepting mobile application product submission***  
 > ***Send your best work into the form that we provided.***
 > [Forms](https://bit.ly/programmer-apps)
 
